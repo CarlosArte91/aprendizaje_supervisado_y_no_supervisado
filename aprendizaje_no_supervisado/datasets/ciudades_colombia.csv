@@ -1,0 +1,16 @@
+ciudad;temperatura_promedio;precipitacion_promedio;tipo_de_clima
+Bogotá;14.5;300;Frío
+Medellín;18.0;200;Templado
+Cali;22.5;120;Templado
+Cartagena;26.0;80;Seco
+Barranquilla;30.0;90;Tropical
+Santa Marta;28.5;100;Tropical
+Villavicencio;25.5;110;Tropical
+Cúcuta;27.0;85;Tropical
+Manizales;20.5;150;Templado
+Pereira;23.0;130;Templado
+Ipiales;12.0;400;Frío
+Armenia;21.0;180;Templado
+Neiva;29.0;70;Seco
+Bucaramanga;22.0;140;Templado
+Leticia;25.5;320;Tropical

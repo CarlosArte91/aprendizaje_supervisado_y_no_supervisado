@@ -1,0 +1,26 @@
+ciudad,temperatura_promedio,precipitacion_promedio,tipo_de_clima
+Armenia,21.0,180,Templado
+Barranquilla,30.0,90,Tropical
+Bogota,14.5,300,Frio
+Bucaramanga,22.0,140,Templado
+Cali,22.5,120,Templado
+Cartagena,26.0,80,Seco
+Cucuta,27.0,85,Tropical
+Florencia,27.0,300,Tropical
+Ipiales,12.0,400,Frio
+Leticia,25.5,320,Tropical
+Manizales,20.5,150,Templado
+Medellin,18.0,200,Templado
+Montería,28.0,85,Tropical
+Neiva,29.0,70,Seco
+Pasto,12.5,400,Frio
+Pereira,23.0,130,Templado
+Popayán,18.5,190,Templado
+Quibdó,26.5,700,Tropical
+Riohacha,30.0,50,Seco
+San Andrés,27.5,150,Tropical
+Santa Marta,28.5,100,Tropical
+Sincelejo,28.5,95,Tropical
+Tocancipá,14.0,350,Frio
+Tunja,13.0,250,Frio
+Villavicencio,25.5,110,Tropical
